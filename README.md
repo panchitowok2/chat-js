@@ -1,5 +1,5 @@
 # chat-js
-This is a proyect implemented to pass the curse of distributed programming lab.
+This is a proyect implemented to pass the grade of distributed programming lab.
 HOW TO EXECUTE:
 You should be have installed node and npm, then run:
 npm start run
