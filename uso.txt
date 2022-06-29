@@ -1,0 +1,10 @@
+Apliacion de chat basada en JavaScript, usando librerias de Socket.io, JQuery y Bootstrap.
+REQUISITOS:
+tener instalado npm.
+USO:
+En una terminal abierta en la carpeta del proyecto, ejecutar el comando:
+npm run start
+el server esta escuchando por defecto en el puerto 3000.
+luego en el navegador deben poner:
+localhost:3000 
+para acceder a la app.
